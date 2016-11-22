@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP WPMDH1100331S
+D Fixed Step Down Regulator Module
+$ENDCMP
+#
 $CMP WPMDH1100501S
 D Fixed Step Down Regulator Module
 $ENDCMP
